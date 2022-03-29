@@ -7,6 +7,8 @@ ejercicio studybud django
 
 - 📫 How to reach me **san88.zzl.308@gmail.com**
 
+- This project its only an exercise for Django
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/san88_zzl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="san88_zzl" height="30" width="40" /></a>
