@@ -15,6 +15,5 @@ urlpatterns = [
     path('delete-room/<str:pk>', views.delete_room, name='delete-room'),
 
     path('delete-msg/<str:pk>', views.delete_msg, name='delete-msg'),
-    #path('delete-room/<str:pk>', views.delete_room, name='delete-room'),
     
 ]
